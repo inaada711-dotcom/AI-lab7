@@ -1,0 +1,32 @@
+31 ?- consult(['c:/Users/inaad/Downloads/Lab7Task1.pl']).
+true.
+
+32 ?- start.
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: d.
+coffee
+milk
+chocolate
+apple
+juice
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: a.
+enter the item you want to add it
+|: orange.
+The item has been added
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: e.
+Goodbye!
+true.
